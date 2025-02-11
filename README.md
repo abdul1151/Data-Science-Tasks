@@ -33,7 +33,7 @@ IBM HR Analytics Dataset
 ### **How to Run:**
 
 ```bash
-streamlit run employee_attrition.py
+streamlit run app.py
 ```
 
 ---
@@ -59,7 +59,7 @@ PIMA Diabetes Dataset or Heart Disease Dataset
 ### **How to Run:**
 
 ```bash
-streamlit run disease_diagnosis.py
+streamlit run app.py
 ```
 
 ---
@@ -85,7 +85,7 @@ Lending Club Loan Dataset ("loans\_full\_schema.csv")
 ### **How to Run:**
 
 ```bash
-streamlit run loan_default.py
+streamlit run app.py
 ```
 
 ---
@@ -111,7 +111,7 @@ streamlit run <filename.py>
 For example:
 
 ```bash
-streamlit run loan_default.py
+streamlit run app.py
 ```
 
 ---
